@@ -1,3 +1,0 @@
-Report Title: Student Scores
-Student 1: Score = 85
-Student 2: Score = 93
